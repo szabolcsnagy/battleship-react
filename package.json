@@ -21,7 +21,7 @@
     "babel-jest": "^24.9.0",
     "babel-loader": "^8.1.0",
     "css-loader": "^2.1.1",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "jest": "^24.9.0",
     "jest-dom": "^3.5.0",
     "react-hot-loader": "^4.12.20",
@@ -29,7 +29,7 @@
     "style-loader": "^0.23.1",
     "webpack": "^4.42.1",
     "webpack-bundle-analyzer": "^3.6.1",
-    "webpack-cli": "^3.3.11",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.10.3",
     "webpack-merge": "^4.2.2"
   },
